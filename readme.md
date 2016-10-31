@@ -15,6 +15,8 @@ Although a CPU may be the best money/performance tradeoff, a better system may u
 
 ###Planning
 1. Find data sources that are accessable, up to date, and detailed.
+  - [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) seems to have the best API
+  
 2. Build data store.
 3. Connect data store to R.
 4. Talk to someone who knows statistics :)
