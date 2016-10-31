@@ -12,3 +12,9 @@ A complex interface is not needed, the focus is on learning how to sort data, no
 
 ###Things to consider
 Although a CPU may be the best money/performance tradeoff, a better system may use a less powerfull CPU and save more money for the GPU. In other words, each of the components in the system should not be considered independant of each other.
+
+###Planning
+1. Find data sources that are accessable, up to date, and detailed.
+2. Build data store.
+3. Connect data store to R.
+4. Talk to someone who knows statistics :)
